@@ -1,3 +1,7 @@
+**About**
+
+Small utility that removes title bar when a window maximized in Gnome Shell.
+
 **Requires**
 
 - xdotool
