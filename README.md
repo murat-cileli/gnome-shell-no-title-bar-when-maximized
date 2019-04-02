@@ -8,4 +8,4 @@
 
 Start script in background with:
 
-    nohup ./no-window-title.sh > /dev/null 2>&1&
+    nohup ./no-title-bar.sh > /dev/null 2>&1&
