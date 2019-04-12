@@ -6,7 +6,7 @@ Small utility that removes title bar when a window maximized in Gnome Shell.
 
 - xdotool
 - xorg-xprop
-- xorg-xpdyinfo
+- xorg-xdpyinfo
 
 **Usage**
 
